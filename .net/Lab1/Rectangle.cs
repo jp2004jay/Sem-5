@@ -8,11 +8,16 @@ namespace Lab1
 {
     internal class Rectangle
     {
-        public double area;
+        double area;
 
         public Rectangle(double a, double b)
         {
             area = a * b;
+        }
+
+        public void DisplayArea()
+        {
+            Console.WriteLine("Area: {0}", area);
         }
     }
 }
