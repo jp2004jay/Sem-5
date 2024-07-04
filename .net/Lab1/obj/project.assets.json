@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raman\\source\\repos\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab1\\Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "C:\\Users\\raman\\source\\repos\\Lab1\\Lab1.csproj",
+      "projectPath": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab1\\Lab1.csproj",
       "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raman\\source\\repos\\Lab1\\obj\\",
+      "outputPath": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raman\\AppData\\Roaming\\NuGet\\NuGet.Config",

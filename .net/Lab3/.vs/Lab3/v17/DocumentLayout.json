@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\lab3\\trafficdel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|solutionrelative:trafficdel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\lab3\\genericdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|solutionrelative:genericdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\lab3\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\lab3\\overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|solutionrelative:overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\lab3\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|solutionrelative:area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\lab3\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\lab3\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|solutionrelative:hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\lab3\\rbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF011AD-1F19-48F0-828B-443A9B78E161}|Lab3.csproj|solutionrelative:rbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\GenericDelegate.cs",
+              "RelativeDocumentMoniker": "GenericDelegate.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\GenericDelegate.cs",
+              "RelativeToolTip": "GenericDelegate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:31:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrafficDel.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\TrafficDel.cs",
+              "RelativeDocumentMoniker": "TrafficDel.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\TrafficDel.cs",
+              "RelativeToolTip": "TrafficDel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:01:00.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:45:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Hospital.cs",
+              "RelativeToolTip": "Hospital.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:34:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Factorial.cs",
+              "RelativeDocumentMoniker": "Factorial.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Factorial.cs",
+              "RelativeToolTip": "Factorial.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:49:16.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RBI.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\RBI.cs",
+              "RelativeDocumentMoniker": "RBI.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\RBI.cs",
+              "RelativeToolTip": "RBI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:04:10.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Area.cs",
+              "RelativeDocumentMoniker": "Area.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Area.cs",
+              "RelativeToolTip": "Area.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:54:09.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Overloading.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Overloading.cs",
+              "RelativeDocumentMoniker": "Overloading.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Overloading.cs",
+              "RelativeToolTip": "Overloading.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:45:37.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\Lab3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:44:28.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

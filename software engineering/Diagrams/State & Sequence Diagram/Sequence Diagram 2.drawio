@@ -1,0 +1,191 @@
+<mxfile host="Electron" modified="2024-07-04T11:29:32.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="9jDz4pMJMTcxBepvoxsd" version="24.5.3" type="device">
+  <diagram name="Page-1" id="mWNHxL_YGE1w52OcmyZa">
+    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="750" pageHeight="950" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-1" value="LMS: Loan Management System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="40" width="140" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-2" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Approve%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20background-color%3A%20rgb(251%2C%20251%2C%20251)%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522return%2522%2520style%253D%2522html%253D1%253BverticalAlign%253Dbottom%253BendArrow%253Dopen%253Bdashed%253D1%253BendSize%253D8%253BedgeStyle%253DelbowEdgeStyle%253Belbow%253Dvertical%253Bcurved%253D0%253Brounded%253D0%253B%2522%2520edge%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520relative%253D%25221%2522%2520as%253D%2522geometry%2522%253E%253CmxPoint%2520x%253D%252295%2522%2520y%253D%2522280%2522%2520as%253D%2522targetPoint%2522%252F%253E%253CArray%2520as%253D%2522points%2522%253E%253CmxPoint%2520x%253D%2522190%2522%2520y%253D%2522280%2522%252F%253E%253C%252FArray%253E%253CmxPoint%2520x%253D%2522300%2522%2520y%253D%2522270%2522%2520as%253D%2522sourcePoint%2522%252F%253E%253C%252FmxGeometry%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dopen%3Bdashed%3D1%3BendSize%3D8%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22140%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22365%22%20y%3D%22140%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22473%22%20y%3D%22140%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZKUuPcb6gNQdZHxXDLeS-1">
+          <mxGeometry x="65" y="64" width="10" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-40" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Approve%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20background-color%3A%20rgb(251%2C%20251%2C%20251)%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522return%2522%2520style%253D%2522html%253D1%253BverticalAlign%253Dbottom%253BendArrow%253Dopen%253Bdashed%253D1%253BendSize%253D8%253BedgeStyle%253DelbowEdgeStyle%253Belbow%253Dvertical%253Bcurved%253D0%253Brounded%253D0%253B%2522%2520edge%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520relative%253D%25221%2522%2520as%253D%2522geometry%2522%253E%253CmxPoint%2520x%253D%252295%2522%2520y%253D%2522280%2522%2520as%253D%2522targetPoint%2522%252F%253E%253CArray%2520as%253D%2522points%2522%253E%253CmxPoint%2520x%253D%2522190%2522%2520y%253D%2522280%2522%252F%253E%253C%252FArray%253E%253CmxPoint%2520x%253D%2522300%2522%2520y%253D%2522270%2522%2520as%253D%2522sourcePoint%2522%252F%253E%253C%252FmxGeometry%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dopen%3Bdashed%3D1%3BendSize%3D8%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22140%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22365%22%20y%3D%22140%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22473%22%20y%3D%22140%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZKUuPcb6gNQdZHxXDLeS-1">
+          <mxGeometry x="65" y="200" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-46" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Approve%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20background-color%3A%20rgb(251%2C%20251%2C%20251)%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522return%2522%2520style%253D%2522html%253D1%253BverticalAlign%253Dbottom%253BendArrow%253Dopen%253Bdashed%253D1%253BendSize%253D8%253BedgeStyle%253DelbowEdgeStyle%253Belbow%253Dvertical%253Bcurved%253D0%253Brounded%253D0%253B%2522%2520edge%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520relative%253D%25221%2522%2520as%253D%2522geometry%2522%253E%253CmxPoint%2520x%253D%252295%2522%2520y%253D%2522280%2522%2520as%253D%2522targetPoint%2522%252F%253E%253CArray%2520as%253D%2522points%2522%253E%253CmxPoint%2520x%253D%2522190%2522%2520y%253D%2522280%2522%252F%253E%253C%252FArray%253E%253CmxPoint%2520x%253D%2522300%2522%2520y%253D%2522270%2522%2520as%253D%2522sourcePoint%2522%252F%253E%253C%252FmxGeometry%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dopen%3Bdashed%3D1%3BendSize%3D8%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22140%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22365%22%20y%3D%22140%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22473%22%20y%3D%22140%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZKUuPcb6gNQdZHxXDLeS-1">
+          <mxGeometry x="65" y="290" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-4" value="Check Pan Card &amp;amp; Other Documents" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="ZKUuPcb6gNQdZHxXDLeS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="180" y="110" />
+            </Array>
+            <mxPoint x="295" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-5" value="LO: Loan Officer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="100" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZKUuPcb6gNQdZHxXDLeS-5">
+          <mxGeometry x="45" y="60" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-7" value="S: Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="540" y="40" width="105" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-8" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Check%20Validation%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22116%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22375%22%20y%3D%22116%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22472.5%22%20y%3D%22116%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Check%20Validation%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22116%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22375%22%20y%3D%22116%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22472.5%22%20y%3D%22116%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZKUuPcb6gNQdZHxXDLeS-7">
+          <mxGeometry x="47.5" y="69" width="10" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-37" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Check%20Validation%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22116%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22375%22%20y%3D%22116%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22472.5%22%20y%3D%22116%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Check%20Validation%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22116%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22375%22%20y%3D%22116%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22472.5%22%20y%3D%22116%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZKUuPcb6gNQdZHxXDLeS-7">
+          <mxGeometry x="47.5" y="150" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-42" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Check%20Validation%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22116%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22375%22%20y%3D%22116%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22472.5%22%20y%3D%22116%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Check%20Validation%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22116%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22375%22%20y%3D%22116%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22472.5%22%20y%3D%22116%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZKUuPcb6gNQdZHxXDLeS-7">
+          <mxGeometry x="47.5" y="210" width="10" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-48" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Check%20Validation%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22116%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22375%22%20y%3D%22116%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22472.5%22%20y%3D%22116%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Check%20Validation%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22116%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22375%22%20y%3D%22116%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22472.5%22%20y%3D%22116%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZKUuPcb6gNQdZHxXDLeS-7">
+          <mxGeometry x="47.5" y="299.5" width="10" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-11" value="Validation" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-2" target="ZKUuPcb6gNQdZHxXDLeS-8">
+          <mxGeometry x="-0.0036" relative="1" as="geometry">
+            <mxPoint x="420" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="490" y="120" />
+            </Array>
+            <mxPoint x="587.5" y="120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-13" value="It&#39;s done. Go for Manager Approval" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;elbow=vertical;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="160" as="targetPoint" />
+            <mxPoint x="407.5" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-29" value="LM: Loan Manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="195" y="40" width="100" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZKUuPcb6gNQdZHxXDLeS-29">
+          <mxGeometry x="45" y="200" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-34" value="Validate Application Successful" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;elbow=vertical;rounded=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-8" target="ZKUuPcb6gNQdZHxXDLeS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="150" as="targetPoint" />
+            <mxPoint x="582.5" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="520" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-35" value="Update Status" style="html=1;verticalAlign=bottom;endArrow=open;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-6" target="ZKUuPcb6gNQdZHxXDLeS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="190" />
+            </Array>
+            <mxPoint x="418" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-38" value="Loan is going for Approval" style="html=1;verticalAlign=bottom;endArrow=open;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-2" target="ZKUuPcb6gNQdZHxXDLeS-37">
+          <mxGeometry x="-0.0036" relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="492" y="200" />
+            </Array>
+            <mxPoint x="590" y="200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-41" value="Check Credit Score" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-39" target="ZKUuPcb6gNQdZHxXDLeS-40">
+          <mxGeometry x="-0.0036" relative="1" as="geometry">
+            <mxPoint x="250" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="322" y="250" />
+            </Array>
+            <mxPoint x="420" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-43" value="Validate Credit Score" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-40" target="ZKUuPcb6gNQdZHxXDLeS-42">
+          <mxGeometry x="-0.0036" relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="492" y="260" />
+            </Array>
+            <mxPoint x="590" y="260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-44" value="Validate Successful" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;elbow=vertical;rounded=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-42" target="ZKUuPcb6gNQdZHxXDLeS-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="290" as="targetPoint" />
+            <mxPoint x="590" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="522" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-45" value="Credit Score Approve&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;elbow=vertical;rounded=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-40" target="ZKUuPcb6gNQdZHxXDLeS-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="300" as="targetPoint" />
+            <mxPoint x="420" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="354" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-47" value="Transfer Loan Amount" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0036" relative="1" as="geometry">
+            <mxPoint x="250" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="322" y="340" />
+            </Array>
+            <mxPoint x="408" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-49" value="Request for Transaction" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-46" target="ZKUuPcb6gNQdZHxXDLeS-48">
+          <mxGeometry x="-0.0036" relative="1" as="geometry">
+            <mxPoint x="420" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="494" y="350" />
+            </Array>
+            <mxPoint x="590" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-50" value="Transaction Successful" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;elbow=vertical;rounded=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-48" target="ZKUuPcb6gNQdZHxXDLeS-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="targetPoint" />
+            <mxPoint x="580" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="514" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-51" value="Loan Amount Transfered" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;elbow=vertical;rounded=0;" edge="1" parent="1" source="ZKUuPcb6gNQdZHxXDLeS-46" target="ZKUuPcb6gNQdZHxXDLeS-39">
+          <mxGeometry x="-0.0016" relative="1" as="geometry">
+            <mxPoint x="250" y="390" as="targetPoint" />
+            <mxPoint x="408" y="390" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="354" y="390" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-52" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="85" y="415" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-54" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="240" y="415" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-55" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="415" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKUuPcb6gNQdZHxXDLeS-56" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="415" width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
