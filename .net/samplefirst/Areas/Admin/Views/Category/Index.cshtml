@@ -1,0 +1,59 @@
+﻿@model samplefirst.Models.ViewModels.CategoryViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="container my-2">
+    <div class="row">
+        <div class="col">
+            <h1>List of Categories</h1>
+        </div>
+        <div class="col d-flex align-items-center justify-content-end">
+            <a class="btn btn-success d-flex align-items-center" asp-action="CreateUpdate" asp-controller="Category">
+                <i class="bi bi-plus-circle fs-4 m-0 p-0 me-2"></i>
+                <span class="fs-5">Add New Category</span>
+            </a>
+        </div>
+    </div>
+</div>
+<table class="table table-bordered table-striped" style="width:100%">
+    @if (@Model.categories.Count() != 0)
+    {
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Category Name
+                </th>
+                <th>
+                    Display Order
+                </th>
+                <th>
+                    Created Date
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+    }
+    else
+    {
+        <thead>When data is entered in this table as a time view data here.</thead>
+    }
+    <tbody>
+        @foreach (var item in Model.categories)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Name</td>
+                <td>@item.DisplayOrder</td>
+                <td>@item.CreatedDateTime</td>
+                <td class="d-flex gap-3 justify-content-center">
+                    <a class="btn btn-info" asp-action="CreateUpdate" asp-route-id="@item.ID" asp-controller="Category">Edit</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

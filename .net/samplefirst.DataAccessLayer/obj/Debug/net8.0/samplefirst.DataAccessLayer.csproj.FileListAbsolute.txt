@@ -1,0 +1,16 @@
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\samplefirst.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\samplefirst.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\samplefirst.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\samplefirst.DataAccessLayer.AssemblyInfo.cs
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\samplefirst.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\samplefirst.DataAccessLayer.sourcelink.json
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\bin\Debug\net8.0\samplefirst.DataAccessLayer.deps.json
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\bin\Debug\net8.0\samplefirst.DataAccessLayer.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\bin\Debug\net8.0\samplefirst.DataAccessLayer.pdb
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\bin\Debug\net8.0\samplefirst.Models.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\bin\Debug\net8.0\samplefirst.Models.pdb
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\samplefi.70CA0053.Up2Date
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\samplefirst.DataAccessLayer.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\refint\samplefirst.DataAccessLayer.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\samplefirst.DataAccessLayer.pdb
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.DataAccessLayer\obj\Debug\net8.0\ref\samplefirst.DataAccessLayer.dll

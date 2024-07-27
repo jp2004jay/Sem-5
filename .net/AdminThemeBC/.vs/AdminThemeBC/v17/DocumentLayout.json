@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\main\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\main\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\main\\controllers\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\main\\controllers\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\main\\views\\charts\\chartjs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\main\\views\\charts\\chartjs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\main\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\main\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\main\\controllers\\componantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\main\\controllers\\componantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChartsController.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Controllers\\ChartsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Main\\Controllers\\ChartsController.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Controllers\\ChartsController.cs",
+              "RelativeToolTip": "Areas\\Main\\Controllers\\ChartsController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:59:02.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChartJS.cshtml",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\Charts\\ChartJS.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Main\\Views\\Charts\\ChartJS.cshtml",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\Charts\\ChartJS.cshtml",
+              "RelativeToolTip": "Areas\\Main\\Views\\Charts\\ChartJS.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:59:06.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Main\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Main\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:44:28.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Main\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Main\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:52:12.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComponantController.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Controllers\\ComponantController.cs",
+              "RelativeDocumentMoniker": "Areas\\Main\\Controllers\\ComponantController.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Controllers\\ComponantController.cs",
+              "RelativeToolTip": "Areas\\Main\\Controllers\\ComponantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:52:11.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

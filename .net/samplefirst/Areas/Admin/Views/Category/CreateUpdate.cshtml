@@ -1,0 +1,37 @@
+﻿@model samplefirst.Models.ViewModels.CategoryViewModel
+@{
+    ViewData["Title"] = "Add Category";
+}
+<div class="d-flex gap-4 align-items-center">
+    <a asp-action="Index" asp-controller="Category">
+        <i class="bi bi-arrow-left-circle fs-3"></i>
+    </a>
+    <h1>@((Model.category == null || Model.category.ID == 0) ? "Create New" : "Edit") Category</h1>
+</div>
+<form method="post" class="w-50 p-3">
+    <input asp-for="category.ID" type="hidden" class="form-control" />
+    <div class="mb-3">
+        <label for="category.Name">Category Name: </label>
+        <input asp-for="category.Name" type="text" class="form-control" />
+        <span class="text-danger" asp-validation-for="category.Name"></span>
+    </div>
+    <div class="mb-3">
+        <label for="order">Display Order: </label>
+        <input asp-for="category.DisplayOrder" type="number" class="form-control" />
+        <span class="text-danger" asp-validation-for="category.DisplayOrder"></span>
+    </div>
+    @if (Model.category == null || Model.category.ID == 0)
+    {
+        <button type="submit" class="btn btn-success">Create</button>
+    }
+    else
+    {
+        <button type="submit" class="btn btn-success">Edit</button>
+    }
+</form>
+
+@section scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

@@ -1,0 +1,12 @@
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\bin\Debug\net8.0\samplefirst.Models.deps.json
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\bin\Debug\net8.0\samplefirst.Models.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\bin\Debug\net8.0\samplefirst.Models.pdb
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\obj\Debug\net8.0\samplefirst.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\obj\Debug\net8.0\samplefirst.Models.AssemblyInfoInputs.cache
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\obj\Debug\net8.0\samplefirst.Models.AssemblyInfo.cs
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\obj\Debug\net8.0\samplefirst.Models.csproj.CoreCompileInputs.cache
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\obj\Debug\net8.0\samplefirst.Models.sourcelink.json
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\obj\Debug\net8.0\samplefirst.Models.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\obj\Debug\net8.0\refint\samplefirst.Models.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\obj\Debug\net8.0\samplefirst.Models.pdb
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\samplefirst.Models\obj\Debug\net8.0\ref\samplefirst.Models.dll

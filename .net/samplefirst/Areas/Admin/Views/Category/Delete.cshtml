@@ -1,0 +1,30 @@
+﻿@model samplefirst.Models.ViewModels.CategoryViewModel
+@{
+    ViewData["Title"] = "Add Category";
+}
+<div class="d-flex gap-4 align-items-center">
+    <a asp-action="Index" asp-controller="Category">
+        <i class="bi bi-arrow-left-circle fs-3"></i>
+    </a>
+    <h1>Delete Category</h1>
+</div>
+<form method="post" class="w-50 p-3">
+    <input type="hidden" disabled asp-for="category.ID"/>
+    <div class="mb-3">
+        <label for="Name">Category Name: </label>
+        <input disabled asp-for="category.Name" type="text" class="form-control" />
+        <span class="text-danger" asp-validation-for="category.Name"></span>
+    </div>
+    <div class="mb-3">
+        <label for="order">Display Order: </label>
+        <input disabled asp-for="category.DisplayOrder" type="number" class="form-control" />
+        <span class="text-danger" asp-validation-for="category.DisplayOrder"></span>
+    </div>
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
+
+@section scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

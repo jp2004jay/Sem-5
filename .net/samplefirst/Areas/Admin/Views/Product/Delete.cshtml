@@ -1,0 +1,46 @@
+﻿@model samplefirst.Models.ViewModels.ProductViewModel
+<div class="d-flex gap-4 align-items-center">
+    <a asp-action="Index" asp-controller="Product">
+        <i class="bi bi-arrow-left-circle fs-3"></i>
+    </a>
+    <h1>Delete Product</h1>
+</div>
+<form method="post" class="w-50 p-3">
+    <input asp-for="product.ID" type="hidden" class="form-control" />
+    <div class="mb-3">
+        <label for="product.Name">Product Name: </label>
+        <input disabled asp-for="product.Name" type="text" class="form-control" />
+        <span class="text-danger" asp-validation-for="product.Name"></span>
+    </div>
+    <div class="mb-3">
+        <label for="product.Description">Product Description: </label>
+        <input disabled asp-for="product.Description" type="text" class="form-control" />
+        <span class="text-danger" asp-validation-for="product.Description"></span>
+    </div>
+    <div class="mb-3">
+        <label for="product.Price">Product Price: </label>
+        <input disabled asp-for="product.Price" type="number" class="form-control" />
+        <span class="text-danger" asp-validation-for="product.Price"></span>
+    </div>
+    <div class="mb-3">
+        <label for="product.CategoryID">Product Category: </label>
+        <select disabled asp-for="product.CategoryID" class="form-control">
+            @foreach (var category in Model.categories)
+            {
+                <option value="@category.ID">@category.Name</option>
+            }
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="product.ImageUrl">Product Image Url: </label>
+        <input disabled asp-for="product.ImageUrl" type="text" class="form-control" />
+        <span class="text-danger" asp-validation-for="product.ImageUrl"></span>
+    </div>
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
+
+@section scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

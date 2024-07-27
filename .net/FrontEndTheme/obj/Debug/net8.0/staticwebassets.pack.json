@@ -1,0 +1,997 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontEndTheme.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FrontEndTheme.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\_DS_Store",
+      "PackagePath": "staticwebassets\\MeetMe-doc"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\css\\_DS_Store",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\fonts\\_DS_Store",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\fonts"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\index.html",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\js\\_DS_Store",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\_DS_Store",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\MeetMe-doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_about.css",
+      "PackagePath": "staticwebassets\\css\\_about.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_about.css.map",
+      "PackagePath": "staticwebassets\\css\\_about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_courses.css",
+      "PackagePath": "staticwebassets\\css\\_courses.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_courses.css.map",
+      "PackagePath": "staticwebassets\\css\\_courses.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_feature.css",
+      "PackagePath": "staticwebassets\\css\\_feature.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_feature.css.map",
+      "PackagePath": "staticwebassets\\css\\_feature.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_gallery.css",
+      "PackagePath": "staticwebassets\\css\\_gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_gallery.css.map",
+      "PackagePath": "staticwebassets\\css\\_gallery.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_instagram.css",
+      "PackagePath": "staticwebassets\\css\\_instagram.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_instagram.css.map",
+      "PackagePath": "staticwebassets\\css\\_instagram.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_price.css",
+      "PackagePath": "staticwebassets\\css\\_price.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_price.css.map",
+      "PackagePath": "staticwebassets\\css\\_price.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_service.css",
+      "PackagePath": "staticwebassets\\css\\_service.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_service.css.map",
+      "PackagePath": "staticwebassets\\css\\_service.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_testimonials.css",
+      "PackagePath": "staticwebassets\\css\\_testimonials.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\_testimonials.css.map",
+      "PackagePath": "staticwebassets\\css\\_testimonials.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\css\\breadcrumb.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\breadcrumb.css.map",
+      "PackagePath": "staticwebassets\\css\\breadcrumb.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\banner\\home-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\home-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\banner\\shap-1.png",
+      "PackagePath": "staticwebassets\\img\\banner\\shap-1.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\banner\\shap-2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\shap-2.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\_DS_Store",
+      "PackagePath": "staticwebassets\\img\\elements"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\gallery\\icon.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\gallery\\portfolio_details.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\portfolio_details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\gallery\\project-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\gallery\\project-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\gallery\\project-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\gallery\\project-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\gallery\\project-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\project-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\gallery\\project-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\project-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\Image-01.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\Image-02.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\Image-03.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\Image-04.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\Image-05.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\Image-06.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\Image-07.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\Image-08.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\ins-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\ins-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\ins-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\ins-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\ins-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\ins-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\ins-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\ins-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\ins-5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\ins-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\instagram\\ins-6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\ins-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\personal-2.jpg",
+      "PackagePath": "staticwebassets\\img\\personal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\img\\personal.jpg",
+      "PackagePath": "staticwebassets\\img\\personal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\stellar.js",
+      "PackagePath": "staticwebassets\\js\\stellar.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_feature.scss",
+      "PackagePath": "staticwebassets\\scss\\_feature.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_predefine.scss",
+      "PackagePath": "staticwebassets\\scss\\_predefine.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\scss\\_testimonials.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\animate-css\\animate.css",
+      "PackagePath": "staticwebassets\\vendors\\animate-css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\animate-css\\wow.min.js",
+      "PackagePath": "staticwebassets\\vendors\\animate-css\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\counter-up\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\vendors\\counter-up\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\counter-up\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\vendors\\counter-up\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\flaticon\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\vendors\\flaticon\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\flaticon\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\vendors\\flaticon\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\flaticon\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\vendors\\flaticon\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\flaticon\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\vendors\\flaticon\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\flaticon\\_flaticon.css",
+      "PackagePath": "staticwebassets\\vendors\\flaticon\\_flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\flaticon\\_flaticon.css.map",
+      "PackagePath": "staticwebassets\\vendors\\flaticon\\_flaticon.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\flaticon\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\vendors\\flaticon\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\flaticon\\flaticon.css",
+      "PackagePath": "staticwebassets\\vendors\\flaticon\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\isotope\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendors\\isotope\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendors\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\vendors\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\lightbox\\simpleLightbox.css",
+      "PackagePath": "staticwebassets\\vendors\\lightbox\\simpleLightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\lightbox\\simpleLightbox.min.js",
+      "PackagePath": "staticwebassets\\vendors\\lightbox\\simpleLightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\linericon\\style.css",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\nice-select\\css\\style.css",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\nice-select\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\owl-carousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\owl-carousel\\assets\\animated.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\assets\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\owl-carousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\vendors\\popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\FrontEndTheme\\wwwroot\\vendors\\popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\vendors\\popup\\magnific-popup.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FrontEndTheme.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FrontEndTheme.props",
+      "PackagePath": "build\\FrontEndTheme.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontEndTheme.props",
+      "PackagePath": "buildMultiTargeting\\FrontEndTheme.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FrontEndTheme.props",
+      "PackagePath": "buildTransitive\\FrontEndTheme.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

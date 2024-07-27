@@ -1,0 +1,219 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AdminThemeBC
+build_property.RootNamespace = AdminThemeBC
+build_property.ProjectDir = C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Charts/ApexCharts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDaGFydHNcQXBleENoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Charts/ChartJS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDaGFydHNcQ2hhcnRKUy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Charts/ECharts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDaGFydHNcRUNoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Accordian.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcQWNjb3JkaWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Alert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcQWxlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Badges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcQmFkZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Breadcrumbs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcQnJlYWRjcnVtYnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcQnV0dG9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcQ2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcQ2Fyb3VzZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/ListGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcTGlzdEdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcUGFnaW5hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Progress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcUHJvZ3Jlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Spinners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcU3Bpbm5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Tabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcVGFicy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Componant/Tooltips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcVG9vbHRpcHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/EmployeeDepartment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xFbXBsb3llZURlcGFydG1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/EmployeeEmployeeProject/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xFbXBsb3llZUVtcGxveWVlUHJvamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/EmployeeProject/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xFbXBsb3llZVByb2plY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xFbXBsb3llZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Forms/FormEditors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xGb3Jtc1xGb3JtRWRpdG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Forms/FormElements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xGb3Jtc1xGb3JtRWxlbWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Forms/FormLayouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xGb3Jtc1xGb3JtTGF5b3V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Forms/FormValidations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xGb3Jtc1xGb3JtVmFsaWRhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Icons/BootstrapIcons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xJY29uc1xCb290c3RyYXBJY29ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Icons/BoxiIcons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xJY29uc1xCb3hpSWNvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Icons/RemixIcons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xJY29uc1xSZW1peEljb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Pages/Blank.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQYWdlc1xCbGFuay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQYWdlc1xDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Pages/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQYWdlc1xGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Pages/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQYWdlc1xQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Tables/DataTables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xUYWJsZXNcRGF0YVRhYmxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Tables/GeneralTables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xUYWJsZXNcR2VuZXJhbFRhYmxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Outer/Views/Pages/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3V0ZXJcVmlld3NcUGFnZXNcRXJyb3JQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Outer/Views/Pages/LoginPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3V0ZXJcVmlld3NcUGFnZXNcTG9naW5QYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Outer/Views/Pages/RegisterPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3V0ZXJcVmlld3NcUGFnZXNcUmVnaXN0ZXJQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Outer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3V0ZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Outer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3V0ZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Views/Shared/_OuterLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PdXRlckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eoxrsb7yvq
