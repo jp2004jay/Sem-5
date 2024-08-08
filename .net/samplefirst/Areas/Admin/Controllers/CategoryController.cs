@@ -16,12 +16,15 @@ namespace samplefirst.Areas.Admin.Controllers
         {
             _unitOfWork = unitOfWork;
         }
+        #region Index
         public IActionResult Index()
         {
             CategoryViewModel categoryView = new CategoryViewModel();
             categoryView.categories = _unitOfWork.Category.GetAll();
             return View(categoryView);
         }
+        #endregion
+
         [HttpGet]
         public IActionResult CreateUpdate(int? id)
         {

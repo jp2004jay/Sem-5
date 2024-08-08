@@ -1,0 +1,50 @@
+﻿@model List<AdminThemeBC.Models.OrderModel>
+<main id="main" class="main">
+    <div class="card-body">
+        <h5 class="card-title fs-3">Orders</h5>
+        <div class="my-3">
+            <a href="#">
+                <button class="btn btn-outline-info">Add New Order</button>
+            </a>
+        </div>
+        <!-- Table with stripped rows -->
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <td scope="col">OrderID</td>
+                    <td scope="col">OrderDate</td>
+                    <td scope="col">CustomerID</td>
+                    <td scope="col">PaymentMode</td>
+                    <td scope="col">TotalAmount</td>
+                    <td scope="col">ShippingAddress</td>
+                    <td scope="col">UserID</td>
+                    <th scope="col" class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+
+                        <td scope="col">@order.OrderID</td>
+                        <td scope="col">@order.OrderDate</td>
+                        <td scope="col">@order.CustomerID</td>
+                        <td scope="col">@order.PaymentMode</td>
+                        <td scope="col">@order.TotalAmount</td>
+                        <td scope="col">@order.ShippingAddress</td>
+                        <td scope="col">@order.UserID</td>
+                        <td scope="col" class="text-center">
+                            <a href="#">
+                                <button class="btn btn-success btn-sm">Edit</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-danger btn-sm">Delete</button>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <!-- End Table with stripped rows -->
+    </div>
+</main>

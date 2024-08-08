@@ -11,14 +11,19 @@ namespace samplefirst.Models
     {
         [Key]
         public int ID { get; set; }
+        /*[Required(ErrorMessage = "dnfihi")]*/
+        /*[Display(Name ="Product Name")]*/
         [Required]
+        /*[DataType(DataType.EmailAddress)] -- > aa nathi chaltu*/
+        [EmailAddress]
         public string Name { get; set; }
-        [Required]
+        /*[StringLength(10)]*/
+        [MaxLength(2)]
+        [MinLength(2)]
         public string Description { get; set; }
-        [Required]
+        [Range(100, 1000, ErrorMessage = "Enter 100 to 1000")]
         public double Price { get; set; }
         public string ImageUrl { get; set; }
-        [Required]
         public int CategoryID { get; set; }
         public DateTime CreatedDate { get; set; } = DateTime.Now;
         public DateTime ModifiedDate { get; set; } = DateTime.Now;

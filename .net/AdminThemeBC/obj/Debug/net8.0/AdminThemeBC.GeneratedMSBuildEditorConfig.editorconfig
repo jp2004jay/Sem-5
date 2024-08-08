@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Bills/BillsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xCaWxsc1xCaWxsc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Charts/ApexCharts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDaGFydHNcQXBleENoYXJ0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -94,6 +98,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcVG9vbHRpcHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Customer/CustomerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDdXN0b21lclxDdXN0b21lckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -142,6 +150,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xJY29uc1xSZW1peEljb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/OrderDetails/OrderDetailsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xPcmRlckRldGFpbHNcT3JkZXJEZXRhaWxzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Order/OrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xPcmRlclxPcmRlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Pages/Blank.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQYWdlc1xCbGFuay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -158,12 +174,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQYWdlc1xQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Product/AddEditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQcm9kdWN0XEFkZEVkaXRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQcm9kdWN0XFByb2R1Y3RMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Tables/DataTables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xUYWJsZXNcRGF0YVRhYmxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Tables/GeneralTables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xUYWJsZXNcR2VuZXJhbFRhYmxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/User/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xVc2VyXEFkZFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/User/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xVc2VyXFVzZXJMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/_ViewImports.cshtml]

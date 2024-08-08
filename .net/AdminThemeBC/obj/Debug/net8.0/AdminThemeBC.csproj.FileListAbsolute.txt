@@ -224,3 +224,9 @@ C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\bin\Debug\net8.0\run
 C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\obj\Debug\net8.0\AdminThe.8F388252.Up2Date
 C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -3,57 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\views\\category\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\views\\category\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2BE3DD5-9A93-4842-A6D2-2202991D90F5}|..\\samplefirst.Models\\samplefirst.Models.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\infrastructure\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\infrastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\infrastructure\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\infrastructure\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\infrastructure\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E2BE3DD5-9A93-4842-A6D2-2202991D90F5}|..\\samplefirst.Models\\samplefirst.Models.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.models\\tbl_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE3DD5-9A93-4842-A6D2-2202991D90F5}|..\\samplefirst.Models\\samplefirst.Models.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.models\\tbl_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\views\\product\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\views\\product\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F87687E-F0EC-404F-924B-23878CE83136}|..\\samplefirst.DataAccessLayer\\samplefirst.DataAccessLayer.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.dataaccesslayer\\infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,203 +44,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 361,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T03:30:53.29Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T03:30:32.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\Order.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.Models\\Order.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\Order.cs",
-              "RelativeToolTip": "..\\samplefirst.Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T03:24:43.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T16:48:57.767Z",
+              "Title": "CreateUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T05:47:30.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:41:03.987Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T05:47:25.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\ICategoryRepository.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:40:40.371Z"
+              "WhenOpened": "2024-07-31T05:46:57.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:39:10.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\Repository.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\Repository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:38:45.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:37:36.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IProductRepository.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IProductRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T12:40:11.991Z"
+              "WhenOpened": "2024-07-31T05:46:53.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IUnitOfWork.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Infrastructure\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Title": "TBL_Student.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\TBL_Student.cs",
+              "RelativeDocumentMoniker": "..\\samplefirst.Models\\TBL_Student.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\TBL_Student.cs",
+              "RelativeToolTip": "..\\samplefirst.Models\\TBL_Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwA0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:41:26.505Z"
+              "WhenOpened": "2024-07-31T05:44:23.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
+              "Title": "TBL_Product.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\TBL_Product.cs",
+              "RelativeDocumentMoniker": "..\\samplefirst.Models\\TBL_Product.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\TBL_Product.cs",
+              "RelativeToolTip": "..\\samplefirst.Models\\TBL_Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:20:11.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T16:44:16.582Z"
+              "WhenOpened": "2024-07-31T05:20:34.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACMAAAAXAAAA",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAACEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T16:54:38.881Z"
+              "WhenOpened": "2024-07-31T05:54:01.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "CreateUpdate.cshtml",
               "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Product\\CreateUpdate.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\CreateUpdate.cshtml",
               "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Product\\CreateUpdate.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Product\\CreateUpdate.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T16:51:04.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "..\\samplefirst.DataAccessLayer\\Infrastructure\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA1wBsAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T16:49:55.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAADoAAAAAAAAAAAAnwEQAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T13:58:20.556Z"
+              "WhenOpened": "2024-07-31T05:20:38.893Z"
             }
           ]
         }

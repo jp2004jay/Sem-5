@@ -1,0 +1,30 @@
+﻿@model samplefirst.Models.TBL_Student
+@{
+    ViewData["Title"] = "Add Studnet";
+}
+<div class="d-flex gap-4 align-items-center">
+    <a asp-action="Index" asp-controller="Category">
+        <i class="bi bi-arrow-left-circle fs-3"></i>
+    </a>
+    <h1>Student Page</h1>
+</div>
+<form method="post" class="w-50 p-3">
+    <div class="mb-3">
+        <label for="StudentName">Category Name: </label>
+        <input asp-for="StudentName" type="text" class="form-control" />
+        <span class="text-danger" asp-validation-for="StudentName"></span>
+    </div>
+    @* <div class="mb-3">
+        <label for="order">Display Order: </label>
+        <input asp-for="category.DisplayOrder" type="number" class="form-control" />
+        <span class="text-danger" asp-validation-for="category.DisplayOrder"></span>
+    </div> *@
+    
+    <button type="submit" class="btn btn-success">Create</button>
+</form>
+
+@section scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
