@@ -18,6 +18,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{area=Main}/{controller=Dashboard}/{action=Index}/{id?}");
+    pattern: "{area=CoffeeShop}/{controller=Product}/{action=ProductList}/{id?}");
 
 app.Run();

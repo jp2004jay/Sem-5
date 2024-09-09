@@ -1,0 +1,93 @@
+﻿@model System.Data.DataTable
+<main id="main" class="main">
+    @if (TempData["ErrorMsg"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["ErrorMsg"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    @if (TempData["SuccessMsg"] != null)
+    {
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                successAlertFire('@TempData["SuccessMsg"]');
+            });
+        </script>
+    }
+    <div class="card-body">
+        <h5 class="card-title fs-3">Products</h5>
+        <div class="my-3">
+            <a asp-area="CoffeeShop" asp-controller="Product" asp-action="AddEditProduct">
+                <button class="btn btn-outline-info">Add New Product</button>
+            </a>
+        </div>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Code</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">User Name</th>
+                    <th scope="col" class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (System.Data.DataRow row in Model.Rows)
+                {
+                    <tr>
+                        <td scope="col">@row["ProductName"]</td>
+                        <td scope="col">@row["ProductPrice"]</td>
+                        <td scope="col">@row["ProductCode"]</td>
+                        <td scope="col">@row["Description"]</td>
+                        <td scope="col">@row["UserName"]</td>
+                        <td scope="col" class="text-center">
+                            <a asp-controller="Product" asp-action="AddEditProduct" asp-route-ProductID="@row["ProductID"]" class="btn btn-success py-0">Edit</a>
+                            <button class="btn btn-danger py-0 delete-button" data-id="@row["ProductID"]">Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</main>
+
+<script>
+    function successAlertFire(msg) {
+        Swal.fire({
+            position: "top",
+            icon: "success",
+            title: msg,
+            showConfirmButton: false,
+            timer: 1500
+        });
+        setTimeout(() => {
+            window.location.reload();
+        }, 1500);
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        const deleteButtons = document.querySelectorAll('.delete-button');
+
+        deleteButtons.forEach(button => {
+            button.addEventListener('click', function () {
+                const productId = this.getAttribute('data-id');
+
+                Swal.fire({
+                    title: 'Are you sure?',
+                    text: "You won't be able to revert this!",
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#3085d6',
+                    cancelButtonColor: '#d33',
+                    confirmButtonText: 'Yes, delete it!'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        window.location.href = `/CoffeeShop/Product/ProductDelete?ProductID=${productId}`;
+                    }
+                });
+            });
+        });
+    });
+</script>

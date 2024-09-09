@@ -26,8 +26,64 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\raman\OneDrive\Desktop\Solutions\.net\AdminThemeBC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Bills/BillsList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xCaWxsc1xCaWxsc0xpc3QuY3NodG1s
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/Bills/AddEditBill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xCaWxsc1xBZGRFZGl0QmlsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/Bills/BillsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xCaWxsc1xCaWxsc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/Customer/AddEditCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xDdXN0b21lclxBZGRFZGl0Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/Customer/CustomerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xDdXN0b21lclxDdXN0b21lckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/OrderDetails/AddEditOrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xPcmRlckRldGFpbHNcQWRkRWRpdE9yZGVyRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/OrderDetails/OrderDetailsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xPcmRlckRldGFpbHNcT3JkZXJEZXRhaWxzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/Order/AddEditOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xPcmRlclxBZGRFZGl0T3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/Order/OrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xPcmRlclxPcmRlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/Product/AddEditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xQcm9kdWN0XEFkZEVkaXRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xQcm9kdWN0XFByb2R1Y3RMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/TBLProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xUQkxQcm9kdWN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/User/AddEditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xVc2VyXEFkZEVkaXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/User/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xVc2VyXFVzZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/CoffeeShop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29mZmVlU2hvcFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Charts/ApexCharts.cshtml]
@@ -98,10 +154,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDb21wb25hbnRcVG9vbHRpcHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Customer/CustomerList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xDdXN0b21lclxDdXN0b21lckxpc3QuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -150,14 +202,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xJY29uc1xSZW1peEljb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/OrderDetails/OrderDetailsList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xPcmRlckRldGFpbHNcT3JkZXJEZXRhaWxzTGlzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Order/OrderList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xPcmRlclxPcmRlckxpc3QuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Pages/Blank.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQYWdlc1xCbGFuay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -174,28 +218,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQYWdlc1xQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Product/AddEditProduct.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQcm9kdWN0XEFkZEVkaXRQcm9kdWN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Product/ProductList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xQcm9kdWN0XFByb2R1Y3RMaXN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Tables/DataTables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xUYWJsZXNcRGF0YVRhYmxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/Tables/GeneralTables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xUYWJsZXNcR2VuZXJhbFRhYmxlcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/User/AddUser.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xVc2VyXEFkZFVzZXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/User/UserList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xVc2VyXFVzZXJMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Areas/Main/Views/_ViewImports.cshtml]
@@ -245,6 +273,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Views/Shared/_CoffeeShop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db2ZmZWVTaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-82tv1mzzwj
 
 [C:/Users/raman/OneDrive/Desktop/Solutions/.net/AdminThemeBC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

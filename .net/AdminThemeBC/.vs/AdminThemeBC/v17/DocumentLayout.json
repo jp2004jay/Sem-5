@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\main\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\main\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\coffeeshop\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\coffeeshop\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\coffeeshop\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\coffeeshop\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\main\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\main\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\coffeeshop\\views\\orderdetails\\orderdetailslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\coffeeshop\\views\\orderdetails\\orderdetailslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\main\\views\\product\\addeditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\main\\views\\product\\addeditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\main\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\main\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\adminthemebc\\areas\\coffeeshop\\views\\order\\orderlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEEB3643-043F-4CC2-9436-32493AFE1E5C}|AdminThemeBC.csproj|solutionrelative:areas\\coffeeshop\\views\\order\\orderlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,77 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-06T07:26:44.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductList.cshtml",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\Product\\ProductList.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Main\\Views\\Product\\ProductList.cshtml",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\Product\\ProductList.cshtml",
-              "RelativeToolTip": "Areas\\Main\\Views\\Product\\ProductList.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\CoffeeShop\\Views\\User\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Areas\\CoffeeShop\\Views\\User\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\CoffeeShop\\Views\\User\\UserList.cshtml",
+              "RelativeToolTip": "Areas\\CoffeeShop\\Views\\User\\UserList.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwDkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T07:24:06.878Z",
+              "WhenOpened": "2024-09-09T17:48:47.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Models\\ProductModel.cs",
-              "RelativeToolTip": "Models\\ProductModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:42:04.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddEditProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\Product\\AddEditProduct.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Main\\Views\\Product\\AddEditProduct.cshtml",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\Product\\AddEditProduct.cshtml",
-              "RelativeToolTip": "Areas\\Main\\Views\\Product\\AddEditProduct.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\CoffeeShop\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "Areas\\CoffeeShop\\Views\\Product\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\CoffeeShop\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "Areas\\CoffeeShop\\Views\\Product\\ProductList.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwF0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T12:36:26.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\User\\AddUser.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Main\\Views\\User\\AddUser.cshtml",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Views\\User\\AddUser.cshtml",
-              "RelativeToolTip": "Areas\\Main\\Views\\User\\AddUser.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T12:33:22.9Z"
+              "WhenOpened": "2024-09-09T17:48:44.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Areas\\Main\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\Main\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Areas\\Main\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAABoAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T07:52:18.061Z"
+              "Title": "OrderDetailsList.cshtml",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\CoffeeShop\\Views\\OrderDetails\\OrderDetailsList.cshtml",
+              "RelativeDocumentMoniker": "Areas\\CoffeeShop\\Views\\OrderDetails\\OrderDetailsList.cshtml",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\CoffeeShop\\Views\\OrderDetails\\OrderDetailsList.cshtml",
+              "RelativeToolTip": "Areas\\CoffeeShop\\Views\\OrderDetails\\OrderDetailsList.cshtml",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T17:48:24.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderList.cshtml",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\CoffeeShop\\Views\\Order\\OrderList.cshtml",
+              "RelativeDocumentMoniker": "Areas\\CoffeeShop\\Views\\Order\\OrderList.cshtml",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\AdminThemeBC\\Areas\\CoffeeShop\\Views\\Order\\OrderList.cshtml",
+              "RelativeToolTip": "Areas\\CoffeeShop\\Views\\Order\\OrderList.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAYwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T17:47:59.064Z",
+              "EditorCaption": ""
             }
           ]
         }

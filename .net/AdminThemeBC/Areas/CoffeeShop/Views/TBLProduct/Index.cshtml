@@ -1,0 +1,54 @@
+﻿@model TBL_Product
+<main id="main">
+<h2>Create Product</h2>
+    @* http://localhost:5052/CoffeeShop/TBLProduct/Index *@
+    <custom-a></custom-a>
+@using (Html.BeginForm("Create", "TBLProduct", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ProductID, "Product ID")
+        @Html.TextBoxFor(model => model.ProductID, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.ProductID, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ProductName, "Product Name")
+        @Html.TextBoxFor(model => model.ProductName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.ProductName, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ProductPrice)
+        @Html.TextBoxFor(model => model.ProductPrice, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.ProductPrice, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ProductCategory)
+        @Html.TextBoxFor(model => model.ProductCategory, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.ProductCategory, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ProductRating)
+        @Html.TextBoxFor(model => model.ProductRating, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.ProductRating, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ProductDescription)
+        @Html.TextAreaFor(model => model.ProductDescription, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.ProductDescription, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ProductCompany)
+        @Html.TextBoxFor(model => model.ProductCompany, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.ProductCompany, "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+}
+</main>

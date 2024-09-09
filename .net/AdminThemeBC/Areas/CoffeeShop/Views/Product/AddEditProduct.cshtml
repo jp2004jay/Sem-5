@@ -1,0 +1,63 @@
+﻿@model AdminThemeBC.Models.ProductModel
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Product</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-area="CoffeeShop" asp-controller="Product" asp-action="ProductList">Home</a></li>
+                <li class="breadcrumb-item">Product</li>
+                <li class="breadcrumb-item active">Add Edit Product Details</li>
+            </ol>
+        </nav>
+    </div>
+    <form class="w-75" asp-action="Save" method="post">
+        <input type="number" hidden asp-for="ProductID"/>
+        <div class="row mb-3">
+            <label for="firstName" class="col-sm-2 col-form-label">Product Name</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" asp-for="ProductName">
+                <span asp-validation-for="ProductName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label for="inputText" class="col-sm-2 col-form-label">Product Price</label>
+            <div class="col-sm-10">
+                <input type="number" class="form-control" asp-for="ProductPrice">
+                <span asp-validation-for="ProductPrice" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label for="inputEmail" class="col-sm-2 col-form-label">Product Code</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" asp-for="ProductCode">
+                <span asp-validation-for="ProductCode" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label for="inputNumber" class="col-sm-2 col-form-label">Description</label>
+            <div class="col-sm-10">
+                <textarea type="text" class="form-control" rows="4" asp-for="Description"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label for="inputDate" class="col-sm-2 col-form-label">User</label>
+            <div class="col-sm-10">
+                <select asp-for="UserID" class="form-control">
+                    <option value="">-- Select User --</option>
+                    @foreach (var user in ViewBag.UserList)
+                    {
+                        <option value="@user.UserID">@user.UserName</option>
+                    }
+                </select>
+                <span asp-validation-for="UserID" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </div>
+    </form>
+</main>

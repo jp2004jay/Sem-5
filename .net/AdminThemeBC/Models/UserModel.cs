@@ -8,6 +8,6 @@
         public string Password { get; set; }
         public string MobileNo { get; set; }
         public string Address { get; set; }
-        public bool IsActive { get; set; }
+        public int IsActive { get; set; }
     }
 }
