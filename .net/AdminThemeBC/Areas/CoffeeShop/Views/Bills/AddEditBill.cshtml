@@ -22,7 +22,7 @@
         <div class="row mb-3">
             <label for="firstName" class="col-sm-2 col-form-label">Bill Date</label>
             <div class="col-sm-10">
-                <input type="date" class="form-control" asp-for="BillDate">
+                <input type="date" class="form-control" asp-for="BillDate" value="">
                 <span asp-validation-for="BillDate" class="text-danger"></span>
             </div>
         </div>
@@ -42,21 +42,21 @@
         <div class="row mb-3">
             <label for="inputText" class="col-sm-2 col-form-label">Total Amount</label>
             <div class="col-sm-10">
-                <input type="number" class="form-control" asp-for="TotalAmount">
+                <input type="number" class="form-control" asp-for="TotalAmount" value="">
                 <span asp-validation-for="TotalAmount" class="text-danger"></span>
             </div>
         </div>
         <div class="row mb-3">
             <label for="inputText" class="col-sm-2 col-form-label">Discount</label>
             <div class="col-sm-10">
-                <input type="number" class="form-control" asp-for="Discount">
+                <input type="number" class="form-control" asp-for="Discount" value="">
                 <span asp-validation-for="Discount" class="text-danger"></span>
             </div>
         </div>
         <div class="row mb-3">
             <label for="inputText" class="col-sm-2 col-form-label">Net Amount</label>
             <div class="col-sm-10">
-                <input type="number" class="form-control" asp-for="NetAmount">
+                <input type="number" class="form-control" asp-for="NetAmount" value="">
                 <span asp-validation-for="NetAmount" class="text-danger"></span>
             </div>
         </div>
@@ -81,3 +81,8 @@
         </div>
     </form>
 </main>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.js" ></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/additional-methods.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/additional-methods.min.js"></script>

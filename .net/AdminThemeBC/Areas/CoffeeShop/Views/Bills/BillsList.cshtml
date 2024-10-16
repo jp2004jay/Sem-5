@@ -88,7 +88,27 @@
                     confirmButtonText: 'Yes, delete it!'
                 }).then((result) => {
                     if (result.isConfirmed) {
-                        window.location.href = `/CoffeeShop/Bills/BillDelete?BillID=${billId}`;
+                        Swal.fire({
+                            title: "Enter admin password",
+                            input: "text",
+                            inputAttributes: {
+                                autocapitalize: "off"
+                            },
+                            showCancelButton: true,
+                            confirmButtonText: "Delete",
+                            showLoaderOnConfirm: true,
+                            preConfirm: async (login) => {
+                                if (login != 'Govind##1478') {
+                                    Swal.showValidationMessage("Request failed, please enter valid password");
+                                    return result.isConfirmed = false;
+                                }
+                            },
+                            allowOutsideClick: () => !Swal.isLoading()
+                        }).then((result) => {
+                            if (result.isConfirmed) {
+                                window.location.href = `/CoffeeShop/Bills/BillDelete?BillID=${billId}`;
+                            }
+                        });
                     }
                 });
             });

@@ -5,6 +5,7 @@ using System.Data;
 namespace AdminThemeBC.Areas.CoffeeShop.Controllers
 {
     [Area("CoffeeShop")]
+    [CheckAccess]
     public class CustomerController : Controller
     {
         private IConfiguration _configuration;

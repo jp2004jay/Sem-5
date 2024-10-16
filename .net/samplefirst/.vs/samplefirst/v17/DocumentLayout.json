@@ -3,41 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2BE3DD5-9A93-4842-A6D2-2202991D90F5}|..\\samplefirst.Models\\samplefirst.Models.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.models\\tbl_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\views\\category\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\views\\category\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2BE3DD5-9A93-4842-A6D2-2202991D90F5}|..\\samplefirst.Models\\samplefirst.Models.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2BE3DD5-9A93-4842-A6D2-2202991D90F5}|..\\samplefirst.Models\\samplefirst.Models.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst.models\\tbl_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\views\\product\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\views\\product\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|c:\\users\\raman\\onedrive\\desktop\\solutions\\.net\\samplefirst\\areas\\admin\\controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C1E0BC-3967-48DD-ABAF-18DA5BFCD952}|samplefirst.csproj|solutionrelative:areas\\admin\\controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 361,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,125 +22,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\Category.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.Models\\Category.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\Category.cs",
-              "RelativeToolTip": "..\\samplefirst.Models\\Category.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T05:17:46.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateUpdate.cshtml",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T05:47:30.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Student\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T05:47:25.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAYwDQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:46:57.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:46:53.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TBL_Student.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\TBL_Student.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.Models\\TBL_Student.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\TBL_Student.cs",
-              "RelativeToolTip": "..\\samplefirst.Models\\TBL_Student.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwA0AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:44:23.226Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TBL_Product.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\TBL_Product.cs",
-              "RelativeDocumentMoniker": "..\\samplefirst.Models\\TBL_Product.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst.Models\\TBL_Product.cs",
-              "RelativeToolTip": "..\\samplefirst.Models\\TBL_Product.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Title": "CookieController.cs",
+              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\CookieController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CookieController.cs",
+              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\CookieController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CookieController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:20:11.54Z",
+              "WhenOpened": "2024-09-17T04:47:15.191Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:20:34.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAACEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T05:54:01.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateUpdate.cshtml",
-              "DocumentMoniker": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Product\\CreateUpdate.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\CreateUpdate.cshtml",
-              "ToolTip": "C:\\Users\\raman\\OneDrive\\Desktop\\Solutions\\.net\\samplefirst\\Areas\\Admin\\Views\\Product\\CreateUpdate.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\CreateUpdate.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T05:20:38.893Z"
             }
           ]
         }

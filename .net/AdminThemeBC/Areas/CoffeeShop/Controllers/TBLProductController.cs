@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AdminThemeBC.Areas.CoffeeShop.Controllers
 {
     [Area("CoffeeShop")]
+    [CheckAccess]
     public class TBLProductController : Controller
     {
         public IActionResult Index()

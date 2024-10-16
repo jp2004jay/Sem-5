@@ -5,6 +5,7 @@ using System.Data;
 namespace AdminThemeBC.Areas.CoffeeShop.Controllers
 {
     [Area("CoffeeShop")]
+    [CheckAccess]
     public class UserController : Controller
     {
         private IConfiguration _configuration;
@@ -35,9 +36,11 @@ namespace AdminThemeBC.Areas.CoffeeShop.Controllers
                     model.Address = dataRow["Address"].ToString();
                     model.IsActive = Convert.ToInt32(dataRow["IsActive"]);
                 }
+                ViewBag.user = "Edit";
             }
             else
             {
+                ViewBag.user = "ADD";
                 model.UserID = 0;
             }
             return View(model);
@@ -55,6 +58,14 @@ namespace AdminThemeBC.Areas.CoffeeShop.Controllers
             }
             else
             {
+                if (user.UserID == 0)
+                {
+                    ViewBag.user = "ADD";
+                }
+                else
+                {
+                    ViewBag.user = "Edit";
+                }
                 return View("AddEditUser");
             }
         }

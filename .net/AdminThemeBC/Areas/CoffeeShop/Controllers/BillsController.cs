@@ -7,6 +7,7 @@ using Microsoft.CodeAnalysis;
 namespace AdminThemeBC.Areas.CoffeeShop.Controllers
 {
     [Area("CoffeeShop")]
+    [CheckAccess]
     public class BillsController : Controller
     {
         private IConfiguration _configuration;
